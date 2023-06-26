@@ -13,4 +13,6 @@ I created a application with simple UI which can asynchronously and parallely in
 - filter is applied to each photo parallely, photo is divided to 4 smaller photos - batch
 - each filter effect can be previewed in the UI before applying
 - it's actually really fast 😮
+- OOP
+- use of meta programming and Singleton pattern
   
